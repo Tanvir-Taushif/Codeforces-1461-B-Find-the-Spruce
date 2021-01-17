@@ -1,5 +1,5 @@
 # Codeforces-1461-B-Find-the-Spruce
-//Here's The Code in C++
+Here's The Code in C++
 #include<bits/stdc++.h>
 #include<conio.h>
 #include<time.h>
